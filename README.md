@@ -355,6 +355,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <strong>Built with ❤️ using TensorFlow.js, React, and Tailwind CSS</strong><br>
+  <strong>Built with ❤️ by Ishan Maitra</strong><br>
   <sub>All computation happens in your browser — your data never leaves your device.</sub>
 </p>
